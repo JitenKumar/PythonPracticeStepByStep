@@ -45,4 +45,4 @@ class Account:
 
     # 1. Instantiate the class
 
-    acct1 = Account('Jose', 100)
+    acct1 = Account('Jiten', 100)
