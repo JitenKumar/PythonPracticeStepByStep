@@ -8,7 +8,7 @@ then use pylint main.py on the file you want to work with in the terminal
 def func():
 
     '''
-    this is a simple method
+    this is a simple method for pylint overview
     :return: sum
     '''
 

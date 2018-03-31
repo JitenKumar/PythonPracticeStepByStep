@@ -1,1 +1,1 @@
-Simple use of the Pylint to check the global score and other things
+Simple use of the Pylint to check the global score
